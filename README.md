@@ -21,6 +21,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 6.Plot the customer segments
 
 ## Program:
+```
 
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
@@ -70,7 +71,7 @@ plt.title("Customer Segments")
 plt.legend()
 plt.grid(True)
 plt.show()
-
+```
 
 ## Output:
 ## 1.DATA.HEAD():
